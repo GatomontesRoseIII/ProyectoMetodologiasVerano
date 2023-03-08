@@ -1,0 +1,6 @@
+///////////////////Auto 1///////////////////
+Propietario: 1
+Placa: 1
+marca: 1
+modelo: 1
+color: wec

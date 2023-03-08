@@ -1,0 +1,8 @@
+///////////////////Taxista 1///////////////////
+Nombre: 1
+Apellido: 2
+DNI: 1
+Edad: 1
+Sexo: Masculino
+Estado Civil: Soltero
+Taxi placa : 1

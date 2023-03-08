@@ -1,0 +1,40 @@
+///////////////////Taxista 1///////////////////
+Nombre: Lorenzo Adrian
+Apellido: Peralta
+DNI: 1
+Edad: 17
+Sexo: Masculino
+Estado Civil: Soltero
+N°Taxis: 0
+///////////////////Taxista 2///////////////////
+Nombre: Jean Piere
+Apellido: Rivas Bonilla
+DNI: 1
+Edad: 18
+Sexo: Masculino
+Estado Civil: Soltero
+N°Taxis: 0
+///////////////////Taxista 3///////////////////
+Nombre: Alberto
+Apellido: Mendel
+DNI: 1
+Edad: 11
+Sexo: Masculino
+Estado Civil: Soltero
+N°Taxis: 0
+///////////////////Taxista 4///////////////////
+Nombre: Alfonso
+Apellido: 1
+DNI: 1
+Edad: 1
+Sexo: Masculino
+Estado Civil: Soltero
+N°Taxis: 0
+///////////////////Taxista 5///////////////////
+Nombre: Noe Elvis
+Apellido: Ramirez Herrera
+DNI: 1
+Edad: 18
+Sexo: Masculino
+Estado Civil: Soltero
+N°Taxis: 0
